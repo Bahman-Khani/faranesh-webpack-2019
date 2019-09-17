@@ -12,5 +12,5 @@
 
 <p align="center">:point_down::point_down::point_down::point_down::point_down::point_down::point_down::point_down::point_down::point_down::point_down::point_down::point_down::point_down:</p>
 
-## <P align="center"><a href="https://faranesh.com/author/khani" alt="دوره آموزشی وب پک">لینک دانلود دوره آموزش  کاربردی وب پک</a></p>
+## <P align="center"><a href="https://faranesh.com/web/18371-webpack" alt="دوره آموزشی وب پک">لینک دانلود دوره آموزش  کاربردی وب پک</a></p>
 
